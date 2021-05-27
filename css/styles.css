@@ -15,14 +15,9 @@ h1, h2, h3, h4 {
   float:left;
   border: 2px solid beige;
   background-color: rosybrown;
-  height:30%;
-  display:flexbox;
   box-sizing: border-box;
-}
-
-.container {
-  display: flex;
-  align-items: flex-start;
+  display: grid;
+  padding:.1em;
 }
 
 .pets {
