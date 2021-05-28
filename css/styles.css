@@ -1,23 +1,16 @@
-
-
-
 h1, h2, h3, h4 {
   text-align: center;
   background-color:burlywood;
 }
 
-.column1, .column2, .column3, .column4 {
+.col-sm-3 {
   list-style-type:none;
   font-size: larger;
-  width:20%;
-  margin:2%;
   text-align: center;
-  float:left;
   border: 2px solid beige;
   background-color: rosybrown;
   box-sizing: border-box;
-  display: grid;
-  padding:.1em;
+  padding:.2em;
 }
 
 .pets {
